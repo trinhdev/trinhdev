@@ -18,7 +18,7 @@
 
 ![github](https://img.shields.io/badge/GitHub-000000?style=for-the-badge&logo=GitHub&logoColor=white)
 ![python](https://img.shields.io/badge/python-3776AB?style=for-the-badge&logo=Python&logoColor=white)
-![golang](https://img.shields.io/badge/golang-3776AB?style=for-the-badge&logo=Go&logoColor=white)
+![golang](https://img.shields.io/badge/golang-007d9c?style=for-the-badge&logo=Go&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=JavaScript&logoColor=white)
 ![PHP](https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=PHP&logoColor=white)
 ![Laravel](https://img.shields.io/badge/Laravel-FF2D20?style=for-the-badge&logo=Laravel&logoColor=white)
