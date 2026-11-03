@@ -1,11 +1,11 @@
 <h1 align="left">🚀 About Me</h1>
-<h3 align="left">Hi 👋, I'm Trinh Huynh, a web developer from Vietnam</h3>
+<h3 align="left">Hi 👋, I'm Trinh Huynh, a developer from Vietnam</h3>
 
-- 🏢 Đã từng làm việc tại FPT Telecom [HiFPT](https://hi.fpt.vn/)
+- 🏢 Đã từng làm Fullstack Dev tại FPT Telecom [HiFPT](https://hi.fpt.vn/)
 - 🚀 Co-founder tại **BOMAX DIGITAL** ([bomax.vn](https://bomax.vn))
-- 🚀 Co-founder tại **BASELAB CO.**
+- 🚀 Co-founder tại **BASELAB CO. | MESCO**
 - 🏪 Founder tại **PKSAIGON**, **BILLION**, **TECHIFY**
-- 💬 Ask me about **PHP, Laravel, JavaScript, VueJs, Python, MySQL, DevOps, AI**
+- 💬 Ask me about **PHP, JS/Typescript, Vue/React, Python/Rust, SQL, DevOps, AI, Linux**
 
 📫 Connect with me:
 <p align="left">
